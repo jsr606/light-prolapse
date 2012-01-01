@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<controlP5 colorLabel="ffffffff" colorValue="ffffffff" colorForeground="ff00698c" date="Thu Jul 21 21:00:57 CEST 2011" colorBackground="ff003652" colorActive="ff08a2cf" lock="false" filepath="controlP5.xml" urlpath="">
+<window height="500" name="main" background="00000000" width="900" class="lightTubes_w_light_scroller">
+<tab name="global" width="40" id="-1" visible="1.0" open="1.0" label="global" moveable="0.0"/>
+<tab name="default" width="45" id="-1" visible="1.0" open="1.0" label="default" moveable="0.0">
+<controller name="stepper_speed" id="-1" width="200" visible="1.0" min="0.0" type="slider" max="10.0" y="20.0" label="stepper_speed" x="20.0" value="0.5" height="10" moveable="1.0"/>
+<controller name="vu_multiplier" id="-1" width="200" visible="1.0" min="0.0" type="slider" max="10.0" y="40.0" label="vu_multiplier" x="20.0" value="9.75" height="10" moveable="1.0"/>
+<controller name="scrollSpeed" id="-1" width="200" visible="1.0" min="0.0" type="slider" max="100.0" y="60.0" label="scrollSpeed" x="20.0" value="5.0" height="10" moveable="1.0"/>
+<controller name="lampSpread" id="-1" width="200" visible="1.0" min="0.0" type="slider" max="50.0" y="80.0" label="lampSpread" x="20.0" value="26.25" height="10" moveable="1.0"/>
+<controller name="lightDecay" id="-1" width="200" visible="1.0" min="0.7" type="slider" max="1.0" y="100.0" label="lightDecay" x="20.0" value="0.95949996" height="10" moveable="1.0"/>
+</tab>
+</window>
+</controlP5>
+

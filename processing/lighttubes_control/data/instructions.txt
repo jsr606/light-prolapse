@@ -1,0 +1,12 @@
+lighttube control
+=================
+ver 0.1 yo
+=================
+keyboard commands:
+'s' or SPACE: stop
+'h': go home
+'1'>'7': change motor state [DOWN/UP/STOP]
+'r': reset all step counters
+'d': all down
+'u': all up
+'c': check motor state
